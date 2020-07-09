@@ -6,7 +6,10 @@ A linked list is a linear data structure, in which the elements are not stored a
 ### Project Tasks
 
 #####   The project language is Python
-For a given linked list containing the first 100 numbers of the sequence: 0, 1, 1, 2, 3, 5, 8, 13,...,218922995834555200000, provide a solution that returns a linked list in the following order: 218922995834555200000, ..., 13, 8, 5, 3, 2, 1, 1, 0. Please do not rely on standard packages for queues.
+For a given linked list containing the first 100 numbers of the sequence: 
+0, 1, 1, 2, 3, 5, 8, 13,...,218922995834555200000, provide a solution that returns a linked list in the following order: 
+218922995834555200000, ..., 13, 8, 5, 3, 2, 1, 1, 0. 
+Please do not rely on standard packages for queues.
 
 ## Project Implementation
 
