@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+[![CircleCI](https://circleci.com/gh/JohnOMDev/Linked-List-and-Reverse-with-Python.svg?style=svg)](https://circleci.com/gh/JohnOMDev/Linked-List-and-Reverse-with-Python)
+
 ## Project Overview
 Analyzing a linked list problem
 
