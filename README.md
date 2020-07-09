@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Project Overview
 Analyzing a linked list problem
 
@@ -46,3 +47,6 @@ For a given linked list containing the first 100 numbers of the sequence: 0, 1, 
 *   Containerized through docker
 *   Hadolint
 *   Responsive UserInterface
+=======
+# Linked-List
+>>>>>>> 3dc69d7071c700b4bba5b8ce574fbac50f7635b3
