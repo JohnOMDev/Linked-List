@@ -19,5 +19,5 @@ Please do not rely on standard packages for queues.
 1. Run the make setup file in the Makefile for environment setu and cd into the environment:  `make setup`
 2. Run the make install file to install all requirements in the requirements.txt and update or install the python:  `make install`
 3. Run the make lint file to for linting the app: `make lint`
-4. Finally run 'python app.py' to check the app functionalty
+4. Finally run `python app.py` to check the app functionalty
 
